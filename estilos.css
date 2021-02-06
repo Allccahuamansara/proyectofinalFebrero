@@ -1,0 +1,20 @@
+
+body{
+margin:1;
+background-image: url(farmacia.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+
+display: flex;
+
+justify-content:center;
+align-items: center;
+}
+
+body:before{
+content: "";
+width:1%
+
+}
